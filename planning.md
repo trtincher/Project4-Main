@@ -24,20 +24,20 @@ While other apps aim to achieve similar goals, most are tied to the original cha
 ##### Frontend
 - React Architecture Setup
 - Components
-- - Landing
-- - Sign UP
-- - Login
-- - About Page
-- - Choose Character Page
-- - Dashboard (displays action decks, basic charcter stats)
-- - Character Details (shows greater details for background, bonds, etc...)
-- - Character Leveling (Make leveling choices)
-- - HP/Buff/Debuff Calculator (Add, Remove Damage, Select Buffs and Debuffs)
-- - Footer (Paired down symbol-based stats bar)
-- - Nav (Links to pages)
-- - DeckCards (dispalys cards in deck)
-- - Card (displays chosen Card in deck with details and action discription)
-- - Hand
+    - Landing
+    - Sign UP
+    - Login
+    - About Page
+    - Choose Character Page
+    - Dashboard (displays action decks, basic charcter stats)
+    - Character Details (shows greater details for background, bonds, etc...)
+    - Character Leveling (Make leveling choices)
+    - HP/Buff/Debuff Calculator (Add, Remove Damage, Select Buffs and Debuffs)
+    - Footer (Paired down symbol-based stats bar)
+    - Nav (Links to pages)
+    - DeckCards (dispalys cards in deck)
+    - Card (displays chosen Card in deck with details and action discription)
+    - Hand
 
 #### PostMVPs 
 - 3rd Party Verification
