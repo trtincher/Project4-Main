@@ -148,9 +148,9 @@ React, React-Router, JS, Style Components, Ruby on Rails, SQL
 - [Backend]()
 
 ## Project Board Links
-- [WireFrames]()
-- [React Framework]()
-- [Backend Framework]()
+- [WireFrames](https://i.imgur.com/ssI46LC.jpg)
+- [React Framework](https://i.imgur.com/WaHCZGF.jpg)
+- [Backend Framework](https://i.imgur.com/NQnt1jt.jpg)
 - [GitHub Workflow](https://res.cloudinary.com/dugmhtotn/image/upload/v1595609346/GitHub-Workflow_k3x8sn.jpg)
 
 ## Models
